@@ -6,7 +6,7 @@ To run this application, you need to have <code>composer</code> and <code>git</c
  
  1) <code> git clone https://github.com/elhamkiumarsian/ecommerce.git</code>
  
- 2) <code> cd testrepo </code> 
+ 2) <code> cd ecommerce </code> 
  
  3) <code> composer install </code> 
  

@@ -4,7 +4,7 @@
 
 To run this application, you need to have <code>composer</code> and <code>git</code> installe on your machine. If you already have, then follow these steps to run this mini e-commerece yet very powerful module ,: 
  
- 1) <code>git clone </code>
+ 1) <code> git clone https://github.com/elhamkiumarsian/ecommerce.git</code>
  
  2) <code> cd testrepo </code> 
  
